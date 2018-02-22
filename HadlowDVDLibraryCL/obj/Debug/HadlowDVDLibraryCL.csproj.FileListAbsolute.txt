@@ -1,0 +1,64 @@
+E:\West Kent College Work\Unit 40 - Distributed Computer Systems\Draft\HadlowDVDLibraryCL\HadlowDVDLibraryCL\bin\Debug\HadlowDVDLibraryCL.exe.config
+E:\West Kent College Work\Unit 40 - Distributed Computer Systems\Draft\HadlowDVDLibraryCL\HadlowDVDLibraryCL\bin\Debug\HadlowDVDLibraryCL.exe
+E:\West Kent College Work\Unit 40 - Distributed Computer Systems\Draft\HadlowDVDLibraryCL\HadlowDVDLibraryCL\bin\Debug\HadlowDVDLibraryCL.pdb
+E:\West Kent College Work\Unit 40 - Distributed Computer Systems\Draft\HadlowDVDLibraryCL\HadlowDVDLibraryCL\obj\Debug\HadlowDVDLibraryCL.csprojResolveAssemblyReference.cache
+E:\West Kent College Work\Unit 40 - Distributed Computer Systems\Draft\HadlowDVDLibraryCL\HadlowDVDLibraryCL\obj\Debug\HadlowDVDLibraryCL.Form1.resources
+E:\West Kent College Work\Unit 40 - Distributed Computer Systems\Draft\HadlowDVDLibraryCL\HadlowDVDLibraryCL\obj\Debug\HadlowDVDLibraryCL.Properties.Resources.resources
+E:\West Kent College Work\Unit 40 - Distributed Computer Systems\Draft\HadlowDVDLibraryCL\HadlowDVDLibraryCL\obj\Debug\HadlowDVDLibraryCL.csproj.GenerateResource.Cache
+E:\West Kent College Work\Unit 40 - Distributed Computer Systems\Draft\HadlowDVDLibraryCL\HadlowDVDLibraryCL\obj\Debug\HadlowDVDLibraryCL.exe
+E:\West Kent College Work\Unit 40 - Distributed Computer Systems\Draft\HadlowDVDLibraryCL\HadlowDVDLibraryCL\obj\Debug\HadlowDVDLibraryCL.pdb
+H:\West Kent College Work\Unit 40 - Distributed Computer Systems\Draft\HadlowDVDLibraryCL\HadlowDVDLibraryCL\bin\Debug\HadlowDVDLibraryCL.exe.config
+H:\West Kent College Work\Unit 40 - Distributed Computer Systems\Draft\HadlowDVDLibraryCL\HadlowDVDLibraryCL\obj\Debug\HadlowDVDLibraryCL.exe
+H:\West Kent College Work\Unit 40 - Distributed Computer Systems\Draft\HadlowDVDLibraryCL\HadlowDVDLibraryCL\obj\Debug\HadlowDVDLibraryCL.pdb
+H:\West Kent College Work\Unit 40 - Distributed Computer Systems\Draft\HadlowDVDLibraryCL\HadlowDVDLibraryCL\bin\Debug\HadlowDVDLibraryCL.exe
+H:\West Kent College Work\Unit 40 - Distributed Computer Systems\Draft\HadlowDVDLibraryCL\HadlowDVDLibraryCL\bin\Debug\HadlowDVDLibraryCL.pdb
+H:\West Kent College Work\Unit 40 - Distributed Computer Systems\Draft\HadlowDVDLibraryCL\HadlowDVDLibraryCL\obj\Debug\HadlowDVDLibraryCL.csprojResolveAssemblyReference.cache
+H:\West Kent College Work\Unit 40 - Distributed Computer Systems\Draft\HadlowDVDLibraryCL\HadlowDVDLibraryCL\obj\Debug\HadlowDVDLibraryCL.Form1.resources
+H:\West Kent College Work\Unit 40 - Distributed Computer Systems\Draft\HadlowDVDLibraryCL\HadlowDVDLibraryCL\obj\Debug\HadlowDVDLibraryCL.Properties.Resources.resources
+H:\West Kent College Work\Unit 40 - Distributed Computer Systems\Draft\HadlowDVDLibraryCL\HadlowDVDLibraryCL\obj\Debug\HadlowDVDLibraryCL.csproj.GenerateResource.Cache
+E:\West Kent College Work\Unit 42 - Programming in .Net\HadlowDVDLibraryCL\HadlowDVDLibraryCL\bin\Debug\HadlowDVDLibraryCL.exe.config
+E:\West Kent College Work\Unit 42 - Programming in .Net\HadlowDVDLibraryCL\HadlowDVDLibraryCL\obj\Debug\HadlowDVDLibraryCL.exe
+E:\West Kent College Work\Unit 42 - Programming in .Net\HadlowDVDLibraryCL\HadlowDVDLibraryCL\obj\Debug\HadlowDVDLibraryCL.pdb
+E:\West Kent College Work\Unit 42 - Programming in .Net\HadlowDVDLibraryCL\HadlowDVDLibraryCL\bin\Debug\HadlowDVDLibraryCL.exe
+E:\West Kent College Work\Unit 42 - Programming in .Net\HadlowDVDLibraryCL\HadlowDVDLibraryCL\bin\Debug\HadlowDVDLibraryCL.pdb
+E:\West Kent College Work\Unit 42 - Programming in .Net\HadlowDVDLibraryCL\HadlowDVDLibraryCL\obj\Debug\HadlowDVDLibraryCL.csprojResolveAssemblyReference.cache
+E:\West Kent College Work\Unit 42 - Programming in .Net\HadlowDVDLibraryCL\HadlowDVDLibraryCL\obj\Debug\HadlowDVDLibraryCL.Form1.resources
+E:\West Kent College Work\Unit 42 - Programming in .Net\HadlowDVDLibraryCL\HadlowDVDLibraryCL\obj\Debug\HadlowDVDLibraryCL.Properties.Resources.resources
+E:\West Kent College Work\Unit 42 - Programming in .Net\HadlowDVDLibraryCL\HadlowDVDLibraryCL\obj\Debug\HadlowDVDLibraryCL.csproj.GenerateResource.Cache
+H:\West Kent College Work\Unit 42 - Programming in .Net\HadlowDVDLibraryCL\HadlowDVDLibraryCL\bin\Debug\HadlowDVDLibraryCL.exe.config
+H:\West Kent College Work\Unit 42 - Programming in .Net\HadlowDVDLibraryCL\HadlowDVDLibraryCL\obj\Debug\HadlowDVDLibraryCL.exe
+H:\West Kent College Work\Unit 42 - Programming in .Net\HadlowDVDLibraryCL\HadlowDVDLibraryCL\obj\Debug\HadlowDVDLibraryCL.pdb
+H:\West Kent College Work\Unit 42 - Programming in .Net\HadlowDVDLibraryCL\HadlowDVDLibraryCL\bin\Debug\HadlowDVDLibraryCL.exe
+H:\West Kent College Work\Unit 42 - Programming in .Net\HadlowDVDLibraryCL\HadlowDVDLibraryCL\bin\Debug\HadlowDVDLibraryCL.pdb
+H:\West Kent College Work\Unit 42 - Programming in .Net\HadlowDVDLibraryCL\HadlowDVDLibraryCL\obj\Debug\HadlowDVDLibraryCL.csprojResolveAssemblyReference.cache
+H:\West Kent College Work\Unit 42 - Programming in .Net\HadlowDVDLibraryCL\HadlowDVDLibraryCL\obj\Debug\HadlowDVDLibraryCL.Form1.resources
+H:\West Kent College Work\Unit 42 - Programming in .Net\HadlowDVDLibraryCL\HadlowDVDLibraryCL\obj\Debug\HadlowDVDLibraryCL.Properties.Resources.resources
+H:\West Kent College Work\Unit 42 - Programming in .Net\HadlowDVDLibraryCL\HadlowDVDLibraryCL\obj\Debug\HadlowDVDLibraryCL.csproj.GenerateResource.Cache
+E:\West Kent College Work\Unit 42 - Programming in .Net\AshfordDVDLibraryCL\HadlowDVDLibraryCL\bin\Debug\AshfordDVDLibraryCL.exe.config
+E:\West Kent College Work\Unit 42 - Programming in .Net\AshfordDVDLibraryCL\HadlowDVDLibraryCL\bin\Debug\AshfordDVDLibraryCL.exe
+E:\West Kent College Work\Unit 42 - Programming in .Net\AshfordDVDLibraryCL\HadlowDVDLibraryCL\bin\Debug\AshfordDVDLibraryCL.pdb
+E:\West Kent College Work\Unit 42 - Programming in .Net\AshfordDVDLibraryCL\HadlowDVDLibraryCL\obj\Debug\HadlowDVDLibraryCL.csprojResolveAssemblyReference.cache
+E:\West Kent College Work\Unit 42 - Programming in .Net\AshfordDVDLibraryCL\HadlowDVDLibraryCL\obj\Debug\AshfordDVDLibraryCL.Form1.resources
+E:\West Kent College Work\Unit 42 - Programming in .Net\AshfordDVDLibraryCL\HadlowDVDLibraryCL\obj\Debug\AshfordDVDLibraryCL.Properties.Resources.resources
+E:\West Kent College Work\Unit 42 - Programming in .Net\AshfordDVDLibraryCL\HadlowDVDLibraryCL\obj\Debug\HadlowDVDLibraryCL.csproj.GenerateResource.Cache
+E:\West Kent College Work\Unit 42 - Programming in .Net\AshfordDVDLibraryCL\HadlowDVDLibraryCL\obj\Debug\AshfordDVDLibraryCL.exe
+E:\West Kent College Work\Unit 42 - Programming in .Net\AshfordDVDLibraryCL\HadlowDVDLibraryCL\obj\Debug\AshfordDVDLibraryCL.pdb
+H:\West Kent College Work\Unit 42 - Programming in .Net\AshfordDVDLibraryCL\HadlowDVDLibraryCL\bin\Debug\AshfordDVDLibraryCL.exe.config
+H:\West Kent College Work\Unit 42 - Programming in .Net\AshfordDVDLibraryCL\HadlowDVDLibraryCL\obj\Debug\AshfordDVDLibraryCL.exe
+H:\West Kent College Work\Unit 42 - Programming in .Net\AshfordDVDLibraryCL\HadlowDVDLibraryCL\obj\Debug\AshfordDVDLibraryCL.pdb
+E:\AshfordDVDLibraryCL\HadlowDVDLibraryCL\bin\Debug\AshfordDVDLibraryCL.exe.config
+E:\AshfordDVDLibraryCL\HadlowDVDLibraryCL\obj\Debug\AshfordDVDLibraryCL.exe
+E:\AshfordDVDLibraryCL\HadlowDVDLibraryCL\obj\Debug\AshfordDVDLibraryCL.pdb
+H:\AshfordDVDLibraryCL\HadlowDVDLibraryCL\bin\Debug\AshfordDVDLibraryCL.exe.config
+H:\AshfordDVDLibraryCL\HadlowDVDLibraryCL\obj\Debug\AshfordDVDLibraryCL.exe
+H:\AshfordDVDLibraryCL\HadlowDVDLibraryCL\obj\Debug\AshfordDVDLibraryCL.pdb
+H:\West Kent College Work\Unit 42 - Programming in .Net\Final\Unit 42 - Assignment 2 - Oliver Pinnington\AshfordDVDLibraryCL\HadlowDVDLibraryCL\bin\Debug\AshfordDVDLibraryCL.exe.config
+H:\West Kent College Work\Unit 42 - Programming in .Net\Final\Unit 42 - Assignment 2 - Oliver Pinnington\AshfordDVDLibraryCL\HadlowDVDLibraryCL\obj\Debug\AshfordDVDLibraryCL.exe
+H:\West Kent College Work\Unit 42 - Programming in .Net\Final\Unit 42 - Assignment 2 - Oliver Pinnington\AshfordDVDLibraryCL\HadlowDVDLibraryCL\obj\Debug\AshfordDVDLibraryCL.pdb
+H:\West Kent College Work\Unit 42 - Programming in .Net\Final\Unit 42 - Assignment 2 - Oliver Pinnington\AshfordDVDLibraryCL\HadlowDVDLibraryCL\bin\Debug\AshfordDVDLibraryCL.exe
+H:\West Kent College Work\Unit 42 - Programming in .Net\Final\Unit 42 - Assignment 2 - Oliver Pinnington\AshfordDVDLibraryCL\HadlowDVDLibraryCL\bin\Debug\AshfordDVDLibraryCL.pdb
+H:\West Kent College Work\Unit 42 - Programming in .Net\Final\Unit 42 - Assignment 2 - Oliver Pinnington\AshfordDVDLibraryCL\HadlowDVDLibraryCL\obj\Debug\HadlowDVDLibraryCL.csprojResolveAssemblyReference.cache
+H:\West Kent College Work\Unit 42 - Programming in .Net\Final\Unit 42 - Assignment 2 - Oliver Pinnington\AshfordDVDLibraryCL\HadlowDVDLibraryCL\obj\Debug\AshfordDVDLibraryCL.Form1.resources
+H:\West Kent College Work\Unit 42 - Programming in .Net\Final\Unit 42 - Assignment 2 - Oliver Pinnington\AshfordDVDLibraryCL\HadlowDVDLibraryCL\obj\Debug\AshfordDVDLibraryCL.Properties.Resources.resources
+H:\West Kent College Work\Unit 42 - Programming in .Net\Final\Unit 42 - Assignment 2 - Oliver Pinnington\AshfordDVDLibraryCL\HadlowDVDLibraryCL\obj\Debug\HadlowDVDLibraryCL.csproj.GenerateResource.Cache
+H:\West Kent College Work\Unit 42 - Programming in .Net\Final\Unit 42 - Assignment 2 - Oliver Pinnington\AshfordDVDLibraryCL\HadlowDVDLibraryCL\obj\Debug\HadlowDVDLibraryCL.csproj.CoreCompileInputs.cache
